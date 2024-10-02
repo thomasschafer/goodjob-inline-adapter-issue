@@ -56,7 +56,7 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "good_job", "~> 4.2"
+gem "good_job", "~> 4.3"
 
 gem "rspec", "~> 3.13"
 
